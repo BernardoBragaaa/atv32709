@@ -16,7 +16,7 @@
         <select name="estadoCivil" required>
             <option value="Solteiro(a)">Solteiro(a)</option>
             <option value="Casado(a)">Casado(a)</option>
-            <!-- Adicione outras opções de estado civil aqui -->
+            
         </select><br><br>
 
         <label for="faixaEtaria">Faixa Etária:</label>
